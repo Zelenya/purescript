@@ -10,6 +10,10 @@ repository = "https://github.com/zed-extensions/purescript"
 name = "PureScript Language Server"
 language = "PureScript"
 
+[language_servers.purescript-alexandrite]
+name = "PureScript Alexandrite"
+language = "PureScript"
+
 [grammars.purescript]
 repository = "https://github.com/postsolar/tree-sitter-purescript"
 commit = "0554811a512b9cec08b5a83ce9096eb22da18213"
